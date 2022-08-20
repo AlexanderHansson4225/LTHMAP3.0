@@ -1,0 +1,27 @@
+To do:
+Unload byggnad och speheres: den är unsynchronized, marken laddas in sist
+Fixa sökfunktionens förslag
+
+Fixa att man inte kan klicka på sökning
+- Finns en "select"
+Fixa outlines
+
+Fixa kod
+ - Gör en rendererHandler
+ - Sätt in scene i sceneryHandler
+Fixa en himmel bild i bakgrunden
+Fixa färger/lighting
+FIxa problemet med stor bokstav
+
+_____________________________________
+Elevation
+Tjocklek på pilen
+(Ofarliga) errors som ges
+Implementera gröna rum
+Pil
+
+
+UTLÄMNADERUM:
+Smårummen
+4115-4124
+24xx salarna
